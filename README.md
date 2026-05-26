@@ -127,4 +127,6 @@ I don’t just write code — I build complete working products.
 ▸ Discord: <a href="https://discord.com/users/841963614398578708">@aptyp4uk1337</a>  
 ▸ Email: <a href="mailto:aptyp4uk1337@gmail.com?subject=Hello from GitHub">aptyp4uk1337@gmail.com</a>
 
+<div align="center">
 ![](animation.gif)
+</div>
