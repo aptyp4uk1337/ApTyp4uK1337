@@ -128,5 +128,7 @@ I don’t just write code — I build complete working products.
 ▸ Email: <a href="mailto:aptyp4uk1337@gmail.com?subject=Hello from GitHub">aptyp4uk1337@gmail.com</a>
 
 <div align="center">
+  
 ![](animation.gif)
+
 </div>
