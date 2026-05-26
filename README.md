@@ -126,3 +126,5 @@ I don’t just write code — I build complete working products.
 ▸ Telegram: <a href="https://t.me/aptyp4uk1337_bot?start=utm-github">@aptyp4uk1337_bot</a>  
 ▸ Discord: <a href="https://discord.com/users/841963614398578708">@aptyp4uk1337</a>  
 ▸ Email: <a href="mailto:aptyp4uk1337@gmail.com?subject=Hello from GitHub">aptyp4uk1337@gmail.com</a>
+
+![](animation.gif)
