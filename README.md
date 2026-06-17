@@ -19,6 +19,13 @@
 
 <img src="https://i.postimg.cc/d3vtWm5L/Bez-imeni-1.jpg" align="center" title="About Me">
 
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" height="300" src="https://github.com/okineadev/okineadev/raw/main/assets/animation.gif" alt="">
+</picture>
+
+<br>
+
 Backend developer focused on building reliable, scalable systems.
 
 I work with APIs, Telegram ecosystems, and Web3 infrastructure — from idea to production.  
@@ -32,7 +39,7 @@ I care about architecture, performance, and clean code — not hype or overengin
 
 I don’t just write code — I build complete working products.
 
----
+<br>
 
 <p align="center">
 
