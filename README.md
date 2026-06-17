@@ -21,7 +21,7 @@
 
 <picture>
   <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" height="300" src="https://i.postimg.cc/PJKjfbhP/animation.gif" alt="">
+  <img align="right" width="300" height="300" src="/assets/animation.gif" alt="">
 </picture>
 
 <br>
