@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/sD5qxPmb/Template-5.jpg" width="100%" alt="aptyp4uk1337"/>
 </a>
 
-# 👋 Hello, world! 
+# <img src="https://i.postimg.cc/kXV8bT6t/Doge-Emoji-Ag-ADi-Sw--AAu-XEOUo-(2).webp" width="48" alt="Hello, world!" /> Hello, world! 
 ###### Backend systems · Telegram bots · Web3 · Automation · Reverse Engineering
 
 <a href="https://github.com/aptyp4uk1337" title="Profile views since Nov 11 2024"><img src="https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=111827&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgPHBhdGggZD0iTTEyIDE1YTMgMyAwIDEgMCAwLTYgMyAzIDAgMCAwIDAgNloiIC8+CiAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMS4zMjMgMTEuNDQ3QzIuODExIDYuOTc2IDcuMDI4IDMuNzUgMTIuMDAxIDMuNzVjNC45NyAwIDkuMTg1IDMuMjIzIDEwLjY3NSA3LjY5LjEyLjM2Mi4xMi43NTIgMCAxLjExMy0xLjQ4NyA0LjQ3MS01LjcwNSA3LjY5Ny0xMC42NzcgNy42OTctNC45NyAwLTkuMTg2LTMuMjIzLTEwLjY3NS03LjY5YTEuNzYyIDEuNzYyIDAgMCAxIDAtMS4xMTNaTTE3LjI1IDEyYTUuMjUgNS4yNSAwIDEgMS0xMC41IDAgNS4yNSA1LjI1IDAgMCAxIDEwLjUgMFoiIGNsaXAtcnVsZT0iZXZlbm9kZCIgLz4KPC9zdmc+"/></a>&nbsp;
@@ -21,7 +21,7 @@
 
 <picture>
   <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" height="300" src="https://github.com/okineadev/okineadev/raw/main/assets/animation.gif" alt="">
+  <img align="right" width="300" height="300" src="https://i.postimg.cc/PJKjfbhP/animation.gif" alt="">
 </picture>
 
 <br>
@@ -109,6 +109,8 @@ I don’t just write code — I build complete working products.
 <img src="https://img.shields.io/badge/GitBook-0D1117?style=for-the-badge&logo=gitbook&logoColor=3884FF">
 <img src="https://img.shields.io/badge/ReadMe-0D1117?style=for-the-badge&logo=readme&logoColor=018EF5">
 <img src="https://img.shields.io/badge/VuePress-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=fff">
 
 ---
 
